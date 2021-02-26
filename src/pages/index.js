@@ -6,7 +6,7 @@ import Menu from "../components/menu"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="" />
+    <SEO title="Menu" />
     <Menu />
   </Layout>
 )
