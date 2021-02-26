@@ -1,0 +1,45 @@
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  font: 112.5%/1.45em georgia, serif, sans-serif;
+  box-sizing: border-box;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  position: relative;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*=========Main=========*/
+.main-section {
+  width: 100%;
+  min-width: 100vw;
+  height: auto;
+  margin-top: auto;
+  background-image: url("../images/nikkori.jpg");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  transition: ease 0.2s;
+}
+
+.menu-image {
+  width: 100%;
+  height: auto;
+}
+
+.menu-div-1 {
+  width: 100%;
+  height: auto;
+  position: absolute;
+}
+
+.menu-div-2 {
+  width: 100%;
+  height: auto;
+  position: absolute;
+}
